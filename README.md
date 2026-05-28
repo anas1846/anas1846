@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,figma,github" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&left=true&vCenter=true&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development">
 </p>
 
 
