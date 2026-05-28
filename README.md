@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,figma,github" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&left=true&vCenter=true&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development">
 </p>
 
