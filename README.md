@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas1846&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas1846&layout=compact&theme=tokyonight)
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,figma,github" />
