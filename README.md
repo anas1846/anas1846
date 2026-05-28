@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anas1846&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anas1846&layout=compact&theme=tokyonight)
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,figma,github" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development">
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development)](https://git.io/typing-svg)
 
