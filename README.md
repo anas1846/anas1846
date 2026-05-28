@@ -23,4 +23,5 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,figma,github" />
 </p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Webflow+Developer;UI+Designer;Learning+Backend+Development)](https://git.io/typing-svg)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+
+![](https://komarev.com/ghpvc/?username=anas1846&color=blue)
