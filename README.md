@@ -30,9 +30,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=anas1846&theme=tokyonight" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=anas1846&show_icons=true&theme=tokyonight" height="150" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas1846&layout=compact&theme=tokyonight" height="150" />
 
 </div>
 
